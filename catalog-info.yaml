@@ -5,6 +5,10 @@ metadata:
   annotations:
     github.com/project-slug: gr4b4z/test1234sg
     backstage.io/techdocs-ref: value
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 
 spec:
   type: other
