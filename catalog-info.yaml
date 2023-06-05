@@ -4,6 +4,8 @@ metadata:
   name: test1234sg
   annotations:
     github.com/project-slug: gr4b4z/test1234sg
+    backstage.io/techdocs-ref: value
+
 spec:
   type: other
   lifecycle: unknown
